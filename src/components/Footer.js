@@ -52,7 +52,7 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                        Latest Courses
                       </Link>
                     </li>
                     <li>
@@ -97,6 +97,9 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
+      <h5>
+      This Site never owns a any course nor support you to use. But education is for everyone so we provide for free
+      </h5>
       </footer>
     )
   }
