@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Best Courses to Download|Coursenal.in',
+    title: 'One Place for your Courses - Coursenal.in',
     description:
       'get latest all courses that boost your career and help you to grow more by our track',
   },
