@@ -11,8 +11,8 @@ export default class Index extends React.Component {
             <div className="content">
               <h1>Hi people</h1>
               <p>
-                This is an example site integrating Netlify’s form handling with
-                Gatsby
+                This is an example site integrating Coursenal form handling with
+                Top authorities
               </p>
               <ul>
                 <li>
