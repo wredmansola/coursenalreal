@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../img/logo.svg'
+import logo from '../img/logo.png'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
@@ -98,7 +98,7 @@ const Footer = class extends React.Component {
           </div>
         </div>
       <h5>
-      This Site never owns a any course nor support you to use. But education is for everyone so we provide for free
+      This Site never owns a any course nor support you to use. But education is for everyone so we provide it for free
       </h5>
       </footer>
     )
